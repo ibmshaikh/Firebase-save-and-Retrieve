@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/lremove"
+        android:title="Remove From Group"
+        />
+    <item
+        android:id="@+id/admin"
+        android:title="Make Admin"
+        />
+    <item
+        android:id="@+id/block"
+        android:title="Block"
+        />
+    <item
+        android:id="@+id/report"
+        android:title="Report User"
+        />
+
+    <item
+        android:id="@+id/chat"
+        android:title="personal Chat"
+        />
+
+</menu>

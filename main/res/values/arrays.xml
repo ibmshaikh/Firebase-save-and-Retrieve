@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu">
+
+        <item>Remove From Group </item>
+
+
+    </string-array>
+    <string-array name="context_menu_item">remove from group</string-array>
+
+
+</resources>
